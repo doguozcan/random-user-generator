@@ -25,8 +25,8 @@ The Random Person Generator is a simple and responsive React application that sh
   `npm install`
 - Start the application
   `npm start`
-- Visit http://localhost:3000 to view the app in your browser.
+- Visit <a href="http://localhost:3000" target="_blank">localhost</a> to view the app in your browser.
 
 ## Live Preview
 
-- You can visit: https://stately-lollipop-9dd980.netlify.app/
+- You can visit <a href="https://stately-lollipop-9dd980.netlify.app/" target="_blank">the live preview</a>
