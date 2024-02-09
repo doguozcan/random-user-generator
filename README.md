@@ -6,7 +6,7 @@ The Random Person Generator is a simple and responsive React application that sh
 
 ## Features
 
-- Displays profiles of fake random users fetched from the <a href="https://randomuser.me/" target="_blank">randomuser</a>.
+- Displays profiles of fake random users fetched from the <a href="https://randomuser.me/">randomuser</a>.
 - Responsive design with Tailwind CSS.
 - Refreshes data with a single button click.
 
@@ -25,8 +25,8 @@ The Random Person Generator is a simple and responsive React application that sh
   `npm install`
 - Start the application
   `npm start`
-- Visit <a href="http://localhost:3000" target="_blank">localhost</a> to view the app in your browser.
+- Visit <a href="http://localhost:3000">localhost</a> to view the app in your browser.
 
 ## Live Preview
 
-- You can visit <a href="https://stately-lollipop-9dd980.netlify.app/" target="_blank">the live preview</a>
+- You can visit <a href="https://stately-lollipop-9dd980.netlify.app/">the live preview</a>
