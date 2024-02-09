@@ -1,0 +1,32 @@
+# Random Person Generator
+
+## About
+
+The Random Person Generator is a simple and responsive React application that showcases fake random user profiles. Utilizing Tailwind CSS for styling, it's designed to help developers practice and refine their skills with React's `useState` and `useEffect` hooks.
+
+## Features
+
+- Displays profiles of fake random users fetched from the <a href="https://randomuser.me/" target="_blank">randomuser</a>.
+- Responsive design with Tailwind CSS.
+- Refreshes data with a single button click.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- Git
+
+### Installation
+
+- Clone the repo:
+  `git clone https://github.com/doguozcan/random-user-generator.git`
+- Install npm packages
+  `npm install`
+- Start the application
+  `npm start`
+- Visit http://localhost:3000 to view the app in your browser.
+
+## Live Preview
+
+- You can visit: https://stately-lollipop-9dd980.netlify.app/
