@@ -21,6 +21,8 @@ The Random Person Generator is a simple and responsive React application that sh
 
 - Clone the repo:
   `git clone https://github.com/doguozcan/random-user-generator.git`
+- Navigate to the project directory:
+  `cd random-user-generator`
 - Install npm packages
   `npm install`
 - Start the application
