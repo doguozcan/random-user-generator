@@ -30,7 +30,7 @@ export default function App() {
       >
         Generate 10 New Person
       </button>
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
         {people.map((person) => (
           <PersonCard
             key={person.email}
