@@ -31,4 +31,4 @@ The Random Person Generator is a simple and responsive React application that sh
 
 ## Live Preview
 
-- You can visit <a href="https://stately-lollipop-9dd980.netlify.app/">the live preview</a>
+- You can visit <a href="https://zippy-kitsune-dc0c92.netlify.app/">the live preview</a>
