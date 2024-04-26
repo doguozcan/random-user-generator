@@ -1,8 +1,12 @@
-# Random Person Generator
+# Random User Generator
 
 ## About
 
-The Random Person Generator is a simple and responsive React application that showcases fake random user profiles. Utilizing Tailwind CSS for styling, it's designed to help developers practice and refine their skills with React's `useState` and `useEffect` hooks.
+The Random User Generator is a simple and responsive React application that showcases fake random user profiles. Utilizing Tailwind CSS for styling, it's designed to help developers practice and refine their skills with React's `useState` and `useEffect` hooks.
+
+## Screenshot
+
+![random-user-generator](https://github.com/doguozcan/random-user-generator/assets/76822280/ef352edd-bc83-46a6-a2db-543e2b745f11)
 
 ## Features
 
